@@ -79,7 +79,7 @@ public class GamePlaying {
 				  four++;
 				 
 				  break;
-				  case 5:System.out.println("    !  No Ball     !");
+				  case 5:System.out.println("    !  Dot Ball     !");
 				  break;
 				  case 6:System.out.println("   >  "+run+ "  Runs    WonderFul  Shot   <");
 				     six++;
