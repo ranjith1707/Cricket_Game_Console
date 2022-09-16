@@ -7,10 +7,11 @@ public class GamePlaying {
     static int[] runs2= {0,0,0,0,0,0,0,0,0,0,0};
 	
 	void gamePlay(String selectTeam, HashMap<String,String[]> teams,String oponent){
+		//team 1;
 		int[] sixA=new int[11];
 		int[] fourA=new int[11]; 
 	   String[] out= new String[11];
-	   
+	   //team 2;
 	   int[] six2=new int[11];
 		int[] four2=new int[11]; 
 	   String[] out2= new String[11];
